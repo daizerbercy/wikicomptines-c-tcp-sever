@@ -1,0 +1,10 @@
+# Fichiers compilés
+*.o
+build/
+wcp_clt
+wcp_srv
+
+# Fichiers temporaires
+*~
+*.swp
+.DS_Store
